@@ -137,6 +137,7 @@ export default defineConfig({
 				{
 					label: 'AI and Automation',
 					items: [
+						{ label: 'AI — Claude Code Operations System', slug: 'ai-automation/claude-code-operations-system' },
 						{ label: 'AI — Client Voice Brain', slug: 'ai-automation/client-voice-brain' },
 						{ label: 'AI — AI-Assisted Content Production', slug: 'ai-automation/ai-content-production' },
 						{ label: 'AI — AI Agent for Repetitive Tasks', slug: 'ai-automation/ai-repetitive-tasks' },
